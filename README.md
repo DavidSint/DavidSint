@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DavidSint
+- 👀 I’m interested in web technologies, technical business strategy, skiing & scuba diving
+- 🌱 I’m currently learning Rust
+- 💼 I work for IBM as a Technical Consultant
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/davidsint/)
